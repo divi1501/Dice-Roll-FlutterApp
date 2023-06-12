@@ -1,12 +1,9 @@
-# first_project
+# Dice Roll App
 
-A new Flutter project.
+I have created my first flutter app. This is just a basic aapp where I learned more about flutter functionalities, stateless,stateful widgets, functions, class, variables, android simulation, flutter environment
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+![Snapshot1](ss1.jpg)
+![Snapshot2](ss2.jpg)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
